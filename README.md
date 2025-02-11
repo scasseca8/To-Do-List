@@ -6,7 +6,6 @@ Um simples aplicativo de lista de tarefas criado com **React**. Permite adiciona
 - React
 - CRA
 - CSS
-- Local Storage (para persistência de dados)
 
 ## 🛠 Funcionalidades
 ✅ Adicionar novas tarefas
