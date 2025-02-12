@@ -26,7 +26,7 @@ Um simples aplicativo de lista de tarefas criado com **React**. Permite adiciona
    ```
 3. Execute o projeto:
    ```bash
-   npm run dev
+   npm start
    ```
 4. Acesse no navegador:
    ```
